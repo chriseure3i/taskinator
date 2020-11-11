@@ -16,4 +16,3 @@ buttonEl.addEventListener("click",  createTaskHandler); {
   tasksToDoEl.appendChild(listItemEl);
 }
 
-
